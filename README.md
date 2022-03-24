@@ -16,7 +16,7 @@
 
 Open your termnial and run the following command:
 
-<code>git clone https://github.com/AlexRS90/hello-rails-react.git</code>
+<code>git clone https://github.com/micheaol/hello-rails-react.git</code>
  - cd recipe-app
  - git checkout rails-react-app
  - bundle install
