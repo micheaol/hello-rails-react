@@ -11,6 +11,7 @@ const Greeting = () => {
     dispatch(fetchGreetings());
   }, [dispatch]);
 
+  //Convert OBJ to arrary 
   const greet = Object.values(greets)
   return (
     <>
